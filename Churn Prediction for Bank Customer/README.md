@@ -1,5 +1,5 @@
 # Churn Prediction for Bank Customer
-<img src="https://github.com/mbarnawi/DL_Portfolio/blob/main/assignment%201-%20bank's%20customers%20dataset/img/gender.PNG" width=600>
+<img src="https://github.com/mbarnawi/DL_Portfolio/blob/main/Churn%20Prediction%20for%20Bank%20Customer/img/gender.PNG" width=600>
 The objective of this project is to utilize an Artificial Neural Network (ANN) model to accurately predict customer churn. By comprehending and forecasting customer behavior, businesses can proactively implement strategies to retain customers and enhance their services.
 
 ### note
@@ -20,10 +20,10 @@ To run the Jupyter Notebook in the repository on your local machine or using Goo
 
 # Results 
 - The best model achieved the highest AUC (Area Under the Curve) when using the weighted model.
-<img src="https://github.com/mbarnawi/DL_Portfolio/blob/main/assignment%201-%20bank's%20customers%20dataset/img/best-w.PNG" width =400 >
+<img src="https://github.com/mbarnawi/DL_Portfolio/blob/main/Churn%20Prediction%20for%20Bank%20Customer/img/best-w.PNG" width =400 >
+- The best model achieved the highest AUC (Area Under the Curve) when using the unweighted model.
+<img src="https://github.com/mbarnawi/DL_Portfolio/blob/main/Churn%20Prediction%20for%20Bank%20Customer/img/best-o.PNG" width =400 >
 
-- The best model achieved the highest AUC (Area Under the Curve) when using the without weighted model.
-<img src="https://github.com/mbarnawi/DL_Portfolio/blob/main/assignment%201-%20bank's%20customers%20dataset/img/best-o.PNG" width =400 >
 
 
 # Acknowledgements
